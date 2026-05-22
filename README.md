@@ -140,5 +140,3 @@ Muhammad Rafif Muzaky
 # License
 
 This project is developed for educational and capstone project purposes.
-
-README selesai. Karena tentu tidak ada project AI yang lengkap tanpa README yang menjelaskan “future development” lebih panjang daripada fitur yang benar-benar sudah jalan. Tradisi open-source yang indah sekaligus tragis.
