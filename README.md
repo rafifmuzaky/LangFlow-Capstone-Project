@@ -76,7 +76,7 @@ Chatbot Response
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/employee-self-service-assistant.git
+git clone https://github.com/rafifmuzaky/Employee-Self-Service-Assistant.git
 ```
 
 ---
